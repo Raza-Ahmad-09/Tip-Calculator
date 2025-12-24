@@ -162,7 +162,9 @@ input::-webkit-inner-spin-button {
   justify-content: space-between;
   align-items: center;
 }
-
+.amount{
+  font-size: 30px;
+}
 .tip-amount p, .total p {
   color: var(--White);
   font-size: 0.9rem;
